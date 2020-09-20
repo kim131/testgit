@@ -1,5 +1,8 @@
 first test file from kim131
 now test modify function is wrong or not!
+
 本次进行文件修改 同时远程仓库文件也进行修改 但是修改的不是一个文件
 
 本次进行文件修改 同时远程仓库也进行同一个文件的修改
+我是远程仓库test1文件新增的内容,你好啊
+
