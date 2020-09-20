@@ -1,2 +1,3 @@
 first test file from kim131
 now test modify function is wrong or not!
+我是远程仓库test1文件新增的内容,你好啊
